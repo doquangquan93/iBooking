@@ -15,7 +15,20 @@ iBooking is accessible, powerful, and robust application.
 <i>c. php artisan db:seed</i><br>
 <i>d. php artisan key:generate</i><br>
 <i>e. php artisan serve</i><br>
+  
+## Admin Credentials
+<i>username: martdevelopers254@gmail.com</i><br>
+<i>Password : admin123</i><br>
+
+## Sceenshots
+<b>1 Landing Page</b></br>
+![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashbaord/blob/master/1.png)
+
+<b>2 Dashboard</b></br>
+![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashbaord/blob/master/1.png)
+
+  
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The iBooking is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
