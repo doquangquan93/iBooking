@@ -22,10 +22,10 @@ iBooking is accessible, powerful, and robust application.
 
 ## Sceenshots
 <b>1 Landing Page</b></br>
-![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashbaord/blob/master/1.png)
+![main screen 1](https://github.com/MartMbithi/iBooking/blob/master/Screenshot-20190905142601-1365x634.png)
 
 <b>2 Dashboard</b></br>
-![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashbaord/blob/master/1.png)
+![main screen 1](https://github.com/MartMbithi/iBooking/blob/master/Screenshot-20190905142638-1352x637.png)
 
   
 
